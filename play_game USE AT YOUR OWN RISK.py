@@ -10,8 +10,8 @@ def play_game():
     num_questions = 5
 
     for _ in range(num_questions):
-        num1, operator, num2, answer = create_question()
-        print(f"what is {num1} {operator} {num2}?")
+        number_1, operator, number_2, answer = create_question()
+        print(f"what is {number_1} {operator} {number_2}?")
 
         response = user_answer()
 
