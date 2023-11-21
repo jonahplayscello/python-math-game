@@ -20,9 +20,9 @@ def play_game():
                 print("That's Right\n")
                 score += 1
             else:
-                print(f"Incorrect. The right answer is {answer}\n")
+                print(f"That's not right, The right answer is {answer}\n")
         else:
-            print(f"incorrect. The right answer is {answer}\n")
+            print(f"That's not right, The right answer is {answer}\n")
 
     print(f"Game Over, you got {score} out of {num_questions}")
 
