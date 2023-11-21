@@ -1,6 +1,6 @@
 # I strongly recomend typing this out so Mr.Davis dosen't notice that you are cheating
 
-# this requires the create_questions function to be working correctly
+# this should go after ...
 
 def user_answer():
     try:
