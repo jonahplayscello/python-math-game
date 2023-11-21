@@ -1,5 +1,8 @@
 # python-math-game
-do not copy and paste this code, write it out manually please
+do not copy and paste this code, please write out the code so you can understand it better
+
+hello agian shs students if you want to try to do the play_game function on your own, go for it.
+All I can say is that this website it your best friend :) https://docs.python.org/3.6/reference/lexical_analysis.html#formatted-string-literals
 
 Your assignment is to create a simple math game for grade and middle school students.
 Students answer basic math questions + addition,- subtraction,* multiplication, / division
