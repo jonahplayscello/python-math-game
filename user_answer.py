@@ -1,4 +1,5 @@
-# if you haven't done so already import random
+# this requires the create_questions function to be working correctly
+
 def user_answer():
     try:
         user_response = float(input("Your answer: "))
