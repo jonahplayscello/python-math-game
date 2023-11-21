@@ -1,3 +1,5 @@
+# I strongly recomend typing this out so Mr.Davis dosen't notice that you are cheating
+
 import random
 def create_question():
     num1 = random.randint(1, 10)
@@ -10,7 +12,7 @@ def create_question():
         answer = num1 - num2
     elif operator == '*':
         answer = num1 * num2
-    else:  # Division
+    else:
         answer = round(num1 / num2, 2)
 
     return num1, operator, num2, answer
