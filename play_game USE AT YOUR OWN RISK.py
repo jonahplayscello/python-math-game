@@ -1,7 +1,7 @@
 # I urge you to try and figure this out on your own before using my solution 
 
 # if you do end up using this, be sure to ADD YOUR OWN COMMENTS!
-
+# I have changed some things up from my code but still, add your own comments
 
 # you will need all of the previous functions to be working and be named correctly for this code function to work
 
@@ -23,7 +23,7 @@ def play_game():
                 print(f"That's not right, The right answer is {answer}\n")
         else:
             print(f"That's not right, The right answer is {answer}\n")
-
-    print(f"You got {score} out of {num_questions}")
+            
+        print(f"You answered {score} out of {num_questions} questions correctly")
 
 # be sure to run play_game() at the end to run the program
