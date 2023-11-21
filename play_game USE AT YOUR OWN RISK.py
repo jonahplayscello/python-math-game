@@ -3,7 +3,7 @@
 # if you do end up using this, be sure to ADD YOUR OWN COMMENTS!
 # I have changed some things up from my code but still, add your own comments
 
-# you will need all of the previous functions to be working and be named correctly for this code function to work
+# you will need all of the previous functions to be working and be named correctly for this function to work
 
 def play_game():
     score = 0
