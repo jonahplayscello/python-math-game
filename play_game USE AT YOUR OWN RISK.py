@@ -24,6 +24,6 @@ def play_game():
         else:
             print(f"That's not right, The right answer is {answer}\n")
 
-    print(f"Game Over, you got {score} out of {num_questions}")
+    print(f"You got {score} out of {num_questions}")
 
 # be sure to run play_game() at the end to run the program
